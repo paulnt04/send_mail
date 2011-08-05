@@ -1,6 +1,6 @@
-class SendMail
-  VERSION = '1.0'
-  
+require "send_mail/version"
+
+module SendMail
   attr_accessor :recipient
   attr_accessor :sender
   attr_accessor :subject
