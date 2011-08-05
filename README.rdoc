@@ -1,4 +1,4 @@
-= SendMail v0.1
+= SendMail v0.0.4
 
 Sendmail is a simple gem to help send email alerts using system sendmail commands (UNIX/Linux only)
 
