@@ -1,0 +1,15 @@
+= SendMail v0.1
+
+Sendmail is a simple gem to help send email alerts using system sendmail commands (UNIX/Linux only)
+
+= Requirements
+  Ruby >= 1.8.x
+  Linux/UNIX/BSD-based systems only (may work if executed in Cygwin?)
+  
+= Use
+
+  ## Right now it is not in gem form, so it cannot be installed using gem or bundler
+
+== License
+
+SendMail is released under the MIT license. Please see LICENSE for more information
