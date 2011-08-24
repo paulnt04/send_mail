@@ -8,7 +8,10 @@ Sendmail is a simple gem to help send email alerts using system sendmail command
   
 = Installation
 
-  ## Right now it is not in gem form, so it cannot be installed using gem or bundler
+  ## Right now it is not in gem form, so it cannot be installed using gem or bundler from rubygems;
+  # To install, run:
+  rake build
+  rake install
 
 = Use
 
