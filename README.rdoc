@@ -5,6 +5,7 @@ Sendmail is a simple gem to help send email alerts using system sendmail command
 = Requirements
   Ruby >= 1.8.x
   Linux/UNIX/BSD-based systems only (may work if executed in Cygwin?)
+  sendmail (UNIX command. See your system's documentation on how to install sendmail. Ex: Debian => `apt-get install sendmial`)
   
 = Installation
 
